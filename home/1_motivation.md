@@ -30,3 +30,7 @@ To sum it up.
 1. To work comfortably towards an idea --> Form business
 2. To make a business, need domain work (research + development) + economics + finance  helped by sales (least priority thing, btw).
 ```
+
+This has 2 dependencies:
+1. https://github.com/sanjar-notes/economics
+2. https://github.com/sanjar-notes/finance
