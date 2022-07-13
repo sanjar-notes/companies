@@ -14,7 +14,7 @@ Note: This definition just talks about the most fundamentals parts of a business
 	1. **Need/problem** - the business is a solution to pressing problem, or satisfies some need. In short, the demand exists (as in supply and demand) or can be easily justified. e.g. food, energy, medicine are needs, garbage recycling is a valid problem.
 	2. **Wish** - the business is a new kind of venture, whose demand is very low/non-existent, but it is important to a small number of stakeholders. Examples:
 		1. Space exploration is neither a need of the majority nor a very imminent problem to be solved, but it is very desirable, exciting and should not be ignored.
-		2. Smartphones were once a wish, not a need or problem that needed to be solved. But manufacturers created them and demontrated that they could impact lives significantly, thus creating demand.
+		2. Smartphones were once a wish, not a need or problem. But manufacturers created them and demontrated that they could impact lives significantly, thus creating demand.
 	3. **Need + wish combo** - this is a middle ground to the above facets of reason. The net demand is less but it's important to a large number of stakeholders.
 2. **Work** - the work to be done. The components of work include:
 	1. **Engineering** - the design of relevant goods/services. This also includes implementation work, but of prototypes only.
