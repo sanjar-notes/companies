@@ -7,7 +7,7 @@ The practice of working towards a goal, in an economically sustainable manner is
 Businesses generally sell something of value (i.e. goods or services) to generate revenue that helps in keeping the business runinng. This is not the only way to make a business economically stable though.
 
 ### Fundamental parts of a business
-![](business_definition.drawio.svg)
+![business_definition_diagram](business_definition.drawio.svg)
 Note: This definition just talks about the most fundamentals parts of a business, and not their dependencies viz funding, operations etc.
 
 1. **Reason** - why is the business being done? Reasons can be classified as *one* of the following:
