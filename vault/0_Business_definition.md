@@ -4,7 +4,9 @@ Created Wednesday 13 July 2022
 ### Definition
 The practice of working towards a goal, in an economically sustainable manner is called a business.
 
-Businesses generally sell something of value (i.e. goods or services) to generate revenue that helps in keeping the business runinng. This is not the only way to make a business economically stable though.
+Note (optional):
+- Businesses generally sell something of value (i.e. goods or services) to generate revenue that helps in keeping the business runinng. This is not the only way to make a business economically stable though.
+- Isn't this definition too simplistic? See [this](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#:~:text=when%20i%20asked%20musk%20about%20his%20knowledge%20of%20business%2C%20he%20scolded%20me%2C%20explaining%2C%20%E2%80%9Ci%20don%E2%80%99t%20know%20what%20a%20business%20is.%20all%20a%20company%20is%20is%20a%20bunch%20of%20people%20together%20to%20create%20a%20product%20or%20service.%20there%E2%80%99s%20no%20such%20thing%20as%20a%20business%2C%20just%20pursuit%20of%20a%20goal%E2%80%94a%20group%20of%20people%20pursuing%20a%20goal.%E2%80%9D).
 
 ### Fundamental parts of a business
 ![business_definition_diagram](business_definition.drawio.svg)
